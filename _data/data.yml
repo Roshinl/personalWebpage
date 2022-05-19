@@ -17,15 +17,15 @@ sidebar:
     citizenship:
     website:
     linkedin: alandoe
-    xing: alandoe
+    xing:
     github: sharu725
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
+    goodreads:
     pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
@@ -81,9 +81,9 @@ education:
           - Bullet point
           - Bullet point
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Bioactivity Testing of Chemical Libraries to Identify Drug Candidates for Human Diseases
+      time: 2019 - 2020
+      company: Texas A&M University, College Station TX
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -94,30 +94,31 @@ experiences:
         error sit voluptatem accusantium doloremque laudantium, totam rem
         aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
         architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+          - Scanned chemical libraries and used biochemical and biological assays to identify compounds that interact with disease target. Lead and assisted in recording data, analysis of data and making relevant conclusions
+          - Lead team meetings, gave presentations, assisted in writing lab reports and manuscripts, maintained lab notebooks
+          - Read pertinent literature, prepared an abstract and poster for presentation with research group
+    - role: Medical Science Research Track
+      time: 2021 - Present
+      company: UNT Health Science Center, Fort Worth TX
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
         Cum sociis natoque penatibus et magnis dis parturient montes,
         nascetur ridiculus mus. Donec quam felis, ultricies nec,
         pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+          - Second-year of master's in the medical sciences program. Currently working under Dr. Hongli Wu and developing a hypothesis-based research project
+          - Requirements of graduation include a research proposal, final report presentation to the public and private defense in front of my committee
+#     - role: UI Developer
+#       time: 2012 - 2014
+#       company: Amazon, London
+#       details: |
+#         Describe your role here lorem ipsum dolor sit amet, consectetuer
+#         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+#         Cum sociis natoque penatibus et magnis dis parturient montes,
+#         nascetur ridiculus mus. Donec quam felis, ultricies nec,
+#         pellentesque eu, pretium quis, sem.
+#           - Bullet point
+#           - Bullet point
 projects:
     title: Projects
     intro: >
