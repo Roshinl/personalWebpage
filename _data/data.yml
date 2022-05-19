@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -18,7 +18,7 @@ sidebar:
     website:
     linkedin: alandoe
     xing:
-    github: sharu725
+    github:
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
@@ -81,19 +81,12 @@ education:
           - Bullet point
           - Bullet point
 experiences:
-    - role: Bioactivity Testing of Chemical Libraries to Identify Drug Candidates for Human Diseases
+    - role: Bioactivity Testing of Chemical Libraries
       time: 2019 - 2020
       company: Texas A&M University, College Station TX
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        adipiscing elit. Tested chemical libraries to identify drug candidates for human diseases
           - Scanned chemical libraries and used biochemical and biological assays to identify compounds that interact with disease target. Lead and assisted in recording data, analysis of data and making relevant conclusions
           - Lead team meetings, gave presentations, assisted in writing lab reports and manuscripts, maintained lab notebooks
           - Read pertinent literature, prepared an abstract and poster for presentation with research group
@@ -102,10 +95,7 @@ experiences:
       company: UNT Health Science Center, Fort Worth TX
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        adipiscing elit.
           - Second-year of master's in the medical sciences program. Currently working under Dr. Hongli Wu and developing a hypothesis-based research project
           - Requirements of graduation include a research proposal, final report presentation to the public and private defense in front of my committee
 #     - role: UI Developer
