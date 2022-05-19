@@ -110,24 +110,28 @@ experiences:
 #           - Bullet point
 #           - Bullet point
 leadership:
-    - role: Bioactivity Testing of Chemical Libraries
+    - role: COVID-19 Church Informational
+      time: 2020 - 2021
+      company: IPC Ebenezer Church, Irving TX
+      details: |
+          - Used Zoom and other social media platforms to answer various questions about COVID-19 and vaccines to church members
+          - Emphasized importance of combatting spread of misinformation and maintaining mental health during the pandemic
+          - Provided insight into how viruses spread, importance of mask wearing, social distancing. Gave presentations on how vaccines work and their importance in controlling the pandemic. Answered any questions or concerns
+    - role: UNICEF Public Relations Officer 
       time: 2019 - 2020
       company: Texas A&M University, College Station TX
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Tested chemical libraries to identify drug candidates for human diseases
-          - Scanned chemical libraries and used biochemical and biological assays to identify compounds that interact with disease target. Lead and assisted in recording data, analysis of data and making relevant conclusions
-          - Lead team meetings, gave presentations, assisted in writing lab reports and manuscripts, maintained lab notebooks
-          - Read pertinent literature, prepared an abstract and poster for presentation with research group
-    - role: Medical Science Research Track
-      time: 2021 - Present
-      company: UNT Health Science Center, Fort Worth TX
+        United Nations International Children’s Emergency Fund Officer
+          - Organized various profit shares and fundraising events with local business. Held events such as car washes, bake sales, garage sales to raise money for local causes. 
+          - Organized relief fundraiser for Hurricane Dorian (2019)
+          - Volunteered regularly in local events to promote UNICEF and establish good networking. Helped coordinate other events that occurred within the organization
+          - Other responsibilities included leading team meetings, general meetings, recruitment presentations and providing mentorship for various members
+    - role: VBS Volunteer Coordinator 
+      time: 2018 - 2018
+      company: IPC Ebenezer Church, Irving TX
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit.
-          - Second-year of master's in the medical sciences program. Currently working under Dr. Hongli Wu and developing a hypothesis-based research project
-          - Requirements of graduation include a research proposal, final report presentation to the public and private defense in front of my committee
-
+          - Served as the Volunteer coordinator/chair for Vacation Bible School for the local church. Primary role was to recruit volunteers and allocate according to need
+    
 publications:
     title: Publications
     intro: |
