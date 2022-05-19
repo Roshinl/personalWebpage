@@ -81,6 +81,14 @@ education:
           - Bullet point
           - Bullet point
 experiences:
+    - role: Medical Science Research Track
+      time: 2021 - Present
+      company: UNT Health Science Center, Fort Worth TX
+      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit.
+          - Second-year of master's in the medical sciences program. Currently working under Dr. Hongli Wu and developing a hypothesis-based research project
+          - Requirements of graduation include a research proposal, final report presentation to the public and private defense in front of my committee     
     - role: Bioactivity Testing of Chemical Libraries
       time: 2019 - 2020
       company: Texas A&M University, College Station TX
@@ -89,15 +97,7 @@ experiences:
         adipiscing elit. Tested chemical libraries to identify drug candidates for human diseases
           - Scanned chemical libraries and used biochemical and biological assays to identify compounds that interact with disease target. Lead and assisted in recording data, analysis of data and making relevant conclusions
           - Lead team meetings, gave presentations, assisted in writing lab reports and manuscripts, maintained lab notebooks
-          - Read pertinent literature, prepared an abstract and poster for presentation with research group
-    - role: Medical Science Research Track
-      time: 2021 - Present
-      company: UNT Health Science Center, Fort Worth TX
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit.
-          - Second-year of master's in the medical sciences program. Currently working under Dr. Hongli Wu and developing a hypothesis-based research project
-          - Requirements of graduation include a research proposal, final report presentation to the public and private defense in front of my committee
+          - Read pertinent literature, prepared an abstract and poster for presentation with research group      
 #     - role: UI Developer
 #       time: 2012 - 2014
 #       company: Amazon, London
